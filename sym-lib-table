@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "mikroBUS")(type "Legacy")(uri "${KIPRJMOD}/kicad-mikroBUS/library/mikroBUS.lib")(options "")(descr ""))
+  (lib (name "W25Q128JVS")(type "KiCad")(uri "${KIPRJMOD}/W25Q128JVS.kicad_sym")(options "")(descr ""))
+)

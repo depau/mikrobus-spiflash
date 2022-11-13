@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "mikroBUS")(type "KiCad")(uri "${KIPRJMOD}/kicad-mikroBUS/modules/mikroBUS.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+)
